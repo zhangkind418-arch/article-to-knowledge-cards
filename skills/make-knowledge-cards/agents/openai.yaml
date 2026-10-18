@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "Turn articles into focused, source-faithful cards"
+  default_prompt: "Use $make-knowledge-cards to create 5-8 focused knowledge cards from this article or local Markdown/TXT file."
